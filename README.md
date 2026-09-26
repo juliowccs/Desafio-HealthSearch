@@ -99,7 +99,7 @@ A aplicação é implementada em **um único arquivo** (`healthsearch_app.py`), 
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/Perilocc/healthSearch.git
+git clone https://github.com/juliowccs/Desafio-HealthSearch.git
 cd healthSearch
 ```
 
